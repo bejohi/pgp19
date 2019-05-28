@@ -41,7 +41,7 @@ object Task4 {
 
     }
 
-
+    return null
   }
   
   def main(Args: Array[String]) = {
