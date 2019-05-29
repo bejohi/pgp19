@@ -2,11 +2,12 @@ import scala.math.sqrt
 
 object Zahlenfolen {
   def primeStream(): Stream[Int] = {
-    // TODO
+    return null
   }
 
   def distanceNumberStream(): Stream[Int] = {
-    val stream: Stream[Int] = 1 #:: stream.scan(x => x)
+    //val stream: Stream[Int] = 1 #:: stream.scan(x => x)
+    return null
   }
 
   def gcd(a: BigInt, b: BigInt): BigInt = {
@@ -18,6 +19,6 @@ object Zahlenfolen {
   }
 
   def mangoldtExpStream(): Stream[Int] = {
-    // TODO
+    return null
   }
 }
